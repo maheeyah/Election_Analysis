@@ -4,7 +4,7 @@ The purpose of this project was to complete the audit by including the voter tur
 
 ## Election Audit Results
 * How many votes were cast in this congressional election?
-There were a total of 369,711 votes. 
+  * There were a total of 369,711 votes. 
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 Jefferson had 38,855 votes which made up 10.5% of the votes. 
